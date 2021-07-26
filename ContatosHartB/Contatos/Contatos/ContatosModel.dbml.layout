@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ContatosModel">
+  <DataContextMoniker Name="/ContatosModelDataContext" />
+  <nestedChildShapes>
+    <classShape Id="21907a1a-e1e7-47d3-ac10-57326510f93c" absoluteBounds="2.125, 1.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ContatosModelDataContext/Contato" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7f6e3422-6ad7-4c43-be52-1574b872fb6b" absoluteBounds="2.1399999999999997, 1.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

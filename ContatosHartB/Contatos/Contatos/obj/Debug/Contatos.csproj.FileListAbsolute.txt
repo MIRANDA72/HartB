@@ -1,0 +1,14 @@
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\bin\Debug\Contatos.exe.config
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\bin\Debug\Contatos.exe
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\bin\Debug\Contatos.pdb
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\obj\Debug\MainWindow.g.cs
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\obj\Debug\App.g.cs
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\obj\Debug\Contatos_MarkupCompile.cache
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\obj\Debug\Contatos_MarkupCompile.lref
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\obj\Debug\MainWindow.baml
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\obj\Debug\Contatos.g.resources
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\obj\Debug\Contatos.Properties.Resources.resources
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\obj\Debug\Contatos.csproj.GenerateResource.cache
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\obj\Debug\Contatos.exe
+C:\Users\miran\source\repos\HartB\ContatosHartB\Contatos\Contatos\obj\Debug\Contatos.pdb
